@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋🏼
+
+I'm Gabriella Bolin, working as Developer @TimeEdit 👩🏻‍💻
 
 <!--
 **gabriella89/gabriella89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
